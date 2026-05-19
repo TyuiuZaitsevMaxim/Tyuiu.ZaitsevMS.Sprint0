@@ -13,7 +13,7 @@ namespace Tyuiu.ZaitsevMS.Sprint0.Task7.V0
         {
             Console.Title = "Спринт #0 | Выполнил: Зайцев М. С. | ИБКСб-25-1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #0                                                               *");
+            Console.WriteLine("* Спринт #0                                                               *"); 
             Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #0                                                              *");

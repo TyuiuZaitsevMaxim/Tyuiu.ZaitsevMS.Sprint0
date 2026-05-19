@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Tyuiu.ZaitsevMS.Sprint0.Task7.V0.Lib
-{
+{ 
     public class DataService
     {
         public static int[] AdditionArrays(int[] numOne, int[] numTwo)
