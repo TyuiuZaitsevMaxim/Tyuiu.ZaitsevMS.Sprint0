@@ -13,7 +13,7 @@ namespace Tyuiu.ZaitsevMS.Sprint0.Task6.V0.Lib
             var total = 0;
             for (var i = 0; i < numbers.Length; i++)
             {
-                total = total + numbers[i];
+                total = total + numbers[i]; 
             }
             return total;
         }
