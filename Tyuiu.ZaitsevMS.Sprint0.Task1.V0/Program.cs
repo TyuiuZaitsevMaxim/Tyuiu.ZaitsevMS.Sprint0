@@ -17,6 +17,6 @@ namespace Tyuiu.ZaitsevMS.Sprint0.Task1.V0
 
             Console.WriteLine("Здравствуйте, меня зовут " + name + ", мне " + age + " лет.");
             Console.ReadKey();
-        }
+        } 
     }
 }
