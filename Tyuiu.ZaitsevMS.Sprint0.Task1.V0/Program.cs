@@ -12,10 +12,10 @@ namespace Tyuiu.ZaitsevMS.Sprint0.Task1.V0
         {
             Console.WriteLine("Hello, World!");
 
-            string name = "Иван";
-            int age = 25;
+            string name = "Максим";
+            int age = 20;
 
-            Console.WriteLine("Здравствуйте, меня зоовут " + name + " мне " + age " лет.");
+            Console.WriteLine("Здравствуйте, меня зовут " + name + ", мне " + age + " лет.");
             Console.ReadKey();
         }
     }

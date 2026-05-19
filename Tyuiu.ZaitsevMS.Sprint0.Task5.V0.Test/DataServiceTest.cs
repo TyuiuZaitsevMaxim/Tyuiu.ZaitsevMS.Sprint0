@@ -28,7 +28,7 @@ namespace Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Test
         [TestMethod]
         public void CheckedDivisionValid()
         {
-            Assert.AreEqual(2, DataService.Division(10, 5));
+            Assert.AreEqual(3, DataService.Division(9, 3));
         }
     }
 }

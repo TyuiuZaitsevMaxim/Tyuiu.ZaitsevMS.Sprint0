@@ -1,38 +1,38 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task0.V0/Tyuiu.ZaitsevMS.Sprint0.Task0.V0.csproj" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task0.V0/Tyuiu.ZaitsevMS.Sprint0.Task0.V0.csproj" Id="d21202b1-0936-4f2e-a728-20fae8b7e7ba" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task1.V0/Tyuiu.ZaitsevMS.Sprint0.Task1.V0.csproj" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task1.V0/Tyuiu.ZaitsevMS.Sprint0.Task1.V0.csproj" Id="4befc6c5-13b1-4422-9c55-62fc48d6f79f" />
   </Folder>
   <Folder Name="/Task2/">
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task2.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task2.V0.Lib.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task2.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task2.V0.Test.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task2.V0/Tyuiu.ZaitsevMS.Sprint0.Task2.V0.csproj" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task2.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task2.V0.Lib.csproj" Id="4877c34d-baf7-4da4-a671-e4d9e6fcee46" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task2.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task2.V0.Test.csproj" Id="e6fd1e12-03bf-4282-b39e-3964ddcbba03" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task2.V0/Tyuiu.ZaitsevMS.Sprint0.Task2.V0.csproj" Id="1e1feafa-4d50-4e8a-a38a-620a75e9271d" />
   </Folder>
   <Folder Name="/Task3/">
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task3.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task3.V0.Lib.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task3.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task3.V0.Test.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task3.V0/Tyuiu.ZaitsevMS.Sprint0.Task3.V0.csproj" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task3.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task3.V0.Lib.csproj" Id="28be1b11-728e-495d-a29c-f645ac9e7fe8" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task3.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task3.V0.Test.csproj" Id="a9453f19-b78e-4022-a9c1-d1d04780a323" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task3.V0/Tyuiu.ZaitsevMS.Sprint0.Task3.V0.csproj" Id="2bf67741-8f9e-4506-aede-e45f55e620a3" />
   </Folder>
   <Folder Name="/Task4/">
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task4.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task4.V0.Lib.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task4.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task4.V0.Test.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task4.V0/Tyuiu.ZaitsevMS.Sprint0.Task4.V0.csproj" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task4.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task4.V0.Lib.csproj" Id="6c5eb134-921a-4f80-8d36-5e81334683d9" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task4.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task4.V0.Test.csproj" Id="480dda22-2e1a-4d8c-9557-7333ac345503" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task4.V0/Tyuiu.ZaitsevMS.Sprint0.Task4.V0.csproj" Id="5bcb4652-7a67-4a95-afbe-f2ab1a3246ca" />
   </Folder>
   <Folder Name="/Task5/">
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Lib.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Test.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task5.V0/Tyuiu.ZaitsevMS.Sprint0.Task5.V0.csproj" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Lib.csproj" Id="e060d761-cce9-4f57-aabd-84409ca32da5" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Test.csproj" Id="ad7dde3d-4a61-4c29-8840-e61cc25243c1" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task5.V0/Tyuiu.ZaitsevMS.Sprint0.Task5.V0.csproj" Id="8caf12e3-a441-4e2f-897f-10753fad759e" />
   </Folder>
   <Folder Name="/Task6/">
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task6.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task6.V0.Lib.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task6.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task6.V0.Test.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task6.V0/Tyuiu.ZaitsevMS.Sprint0.Task6.V0.csproj" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task6.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task6.V0.Lib.csproj" Id="d9d79132-5a66-4b94-af4f-b5883fc4d08d" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task6.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task6.V0.Test.csproj" Id="9d31cca4-7c3e-4e5c-b9dd-de829925fc68" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task6.V0/Tyuiu.ZaitsevMS.Sprint0.Task6.V0.csproj" Id="e96be925-7110-4567-b9df-0852a0800608" />
   </Folder>
   <Folder Name="/Task7/">
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task7.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task7.V0.Lib.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task7.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task7.V0.Test.csproj" />
-    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task7.V0/Tyuiu.ZaitsevMS.Sprint0.Task7.V0.csproj" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task7.V0.Lib/Tyuiu.ZaitsevMS.Sprint0.Task7.V0.Lib.csproj" Id="1d617bf6-288d-4dbb-b853-c4e955c5dd87" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task7.V0.Test/Tyuiu.ZaitsevMS.Sprint0.Task7.V0.Test.csproj" Id="892a72d9-f539-47c5-9e4e-d7821923d0b3" />
+    <Project Path="Tyuiu.ZaitsevMS.Sprint0.Task7.V0/Tyuiu.ZaitsevMS.Sprint0.Task7.V0.csproj" Id="001be30a-994f-4207-b925-4633728a3d98" />
   </Folder>
 </Solution>
