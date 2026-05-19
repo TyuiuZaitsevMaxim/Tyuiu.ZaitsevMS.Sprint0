@@ -8,7 +8,7 @@ namespace Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Lib
 {
     public class DataService
     {
-        public static int Addition(int a, int b)
+        public static int Addition(int a, int b) 
         {
             return a + b;
         }

@@ -13,7 +13,7 @@ namespace Tyuiu.ZaitsevMS.Sprint0.Task5.V0.Test
             Assert.AreEqual(10, DataService.Addition(5, 5));
         }
 
-        [TestMethod]
+        [TestMethod] 
         public void CheckedSubtractionValid()
         {
             Assert.AreEqual(5, DataService.Subtraction(10, 5));
