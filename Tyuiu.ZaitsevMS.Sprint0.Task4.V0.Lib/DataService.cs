@@ -18,7 +18,7 @@ namespace Tyuiu.ZaitsevMS.Sprint0.Task4.V0.Lib
             return a - b;
         }
 
-        public static int Multiplication(int a, int b)
+        public static int Multiplication(int a, int b) 
         {
             return a * b;
         }
