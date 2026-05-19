@@ -16,3 +16,4 @@ namespace Tyuiu.ZaitsevMS.Sprint0.Task2.V0
         }
     }
 }
+ 
